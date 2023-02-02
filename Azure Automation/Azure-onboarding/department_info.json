@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "None",
+    "required_groups": []
+  },
+  {
+    "Name": "DEPARTMENT NAME",
+    "required_groups": [
+      {
+        "Requirement": "DEFAULT or BRANCHINFO FIELD",
+        "Email": "EMAIL ADDRESS"
+      }
+    ]
+  },
+]
