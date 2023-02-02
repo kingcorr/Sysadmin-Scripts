@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Office365  
 
 ### Automation  
@@ -9,3 +10,8 @@
 
 ### Powershell
 [Powershell Scripts](Powershell) For powershell based script
+=======
+# Office365
+
+[Automation](Azure Automation)
+>>>>>>> 7abbc4c (Added chrome policy script)
