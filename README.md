@@ -1,18 +1,18 @@
 # Office365  
 
-### Automation  
-[Automation](Azure%20Automation)   
+### Automation 
 For automation scripts mostly in azure
+[Automation](Azure%20Automation)   
+
 
 ### Bat Files  
-[Bat Scripts](Bat%20Files)  
 For windows command line based scripts   
+[Bat Scripts](Bat%20Files)  
+
 
 
 ### Powershell
-[Powershell Scripts](Powershell)  
 For powershell based script
+[Powershell Scripts](Powershell)  
 
-
-[Automation](Azure Automation)
 
