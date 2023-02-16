@@ -17,7 +17,7 @@ Set-Mailbox -Identity FinalDocs -Type Shared
 ```
 ## Grant delagate access to calendar
 ``` powershell
-Add-MailboxFolderPermission -Identity {email}:\Calendar -User vblackmer@intercaplending.com -AccessRights Editor -SharingPermissionFlags Delegate
+Add-MailboxFolderPermission -Identity {email}:\Calendar -User <EMAIL> -AccessRights Editor -SharingPermissionFlags Delegate
 ```
 ## Hide all shared mailboxes
 ``` powershell
